@@ -1,0 +1,10 @@
+# Core application
+streamlit>=1.30
+pandas>=2.0
+
+# Optional: enables the natural-language briefing layer.
+# The audit runs fully without it.
+anthropic>=0.40
+
+# Development
+pytest>=7.0
